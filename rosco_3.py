@@ -1,5 +1,5 @@
 import praw
-
+print("it's running")
 checked_id_list = open("checked_ids.txt", "w")
 log = open("rosco_log.txt", "w")
 new_log = ""
